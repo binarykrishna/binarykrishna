@@ -36,25 +36,66 @@
 
 ### 📟 whoami
 
-```bash
-┌──────────────────────────────────────────────┐
-│  guest@krishna-jaiswal:~$ whoami               │
-├──────────────────────────────────────────────┤
-│  Name        : Krishna Jaiswal                 │
-│  Role        : MCA (AI/ML) Student             │
-│  Language    : Python (Intermediate)           │
-│  Focus       : ML | Cybersecurity | Networking │
-│  Learning    : Git, GitHub, Security Basics    │
-│  Status      : [ONLINE] Always debugging...    │
-└──────────────────────────────────────────────┘
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="160">
+
+**🎓**
+<br/>
+**MCA (AI/ML)**
+<br/>
+<sub>Role</sub>
+
+</td>
+<td align="center" width="160">
+
+**🐍**
+<br/>
+**Python**
+<br/>
+<sub>Language · Intermediate</sub>
+
+</td>
+<td align="center" width="160">
+
+**🔐**
+<br/>
+**Cybersecurity**
+<br/>
+<sub>Focus Area</sub>
+
+</td>
+<td align="center" width="160">
+
+**🟢**
+<br/>
+**Online**
+<br/>
+<sub>Status · Always learning</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ### 🛠️ Tech & Tools
 
 <div align="center">
+
+![Python](https://progress-bar.dev/70/?title=Python&width=300&color=FF10F0)
+![Linux](https://progress-bar.dev/40/?title=Linux&width=300&color=00FF41)
+![VS%20Code](https://progress-bar.dev/80/?title=VS+Code&width=300&color=00AEEF)
+![Others](https://progress-bar.dev/50/?title=Others+(Git%2C+GitHub%2C+TensorFlow)&width=300&color=FF6EC7)
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=python,tensorflow,linux,git,github,vscode,bash&theme=dark" />
+
 </div>
 
 ---
