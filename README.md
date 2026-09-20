@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,25:330033,50:660033,75:990066,100:1a0033&height=190&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=800&size=46&duration=1&pause=100000&color=FF10F0&center=true&vCenter=true&width=650&height=65&lines=KRISHNA+JAISWAL" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?weight=800&size=46&duration=1&pause=100000&color=000000&center=true&vCenter=true&width=650&height=65&lines=%F0%9D%95%B6%F0%9D%96%97%F0%9D%96%8E%F0%9D%96%98%F0%9D%96%8D%F0%9D%96%93%F0%9D%96%86%20%F0%9D%95%B5%F0%9D%96%86%F0%9D%96%8E%F0%9D%96%98%F0%9D%96%9C%F0%9D%96%86%F0%9D%96%91" alt="Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=17&duration=1&pause=100000&color=FF6EC7&center=true&vCenter=true&width=650&lines=MCA+(AI%2FML)+Student+%7C+Cybersecurity+Enthusiast" alt="Tagline" />
 
