@@ -127,7 +127,7 @@ Others (Git, GitHub, TensorFlow)    ██████████░░░░�
 ### 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=binarykrishna&theme=react-dark&hide_border=true&bg_color=1a0033&color=FF10F0&line=FF6EC7&point=FFFFFF" width="95%"/>
+<img src="https://github-readme-activity-graph-self-nine.vercel.app/graph?username=binarykrishna&theme=react-dark&hide_border=true&bg_color=1a0033&color=FF10F0&line=FF6EC7&point=FFFFFF" width="95%"/>
 </div>
 
 ---
