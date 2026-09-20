@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:003300&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,25:330033,50:660033,75:990066,100:1a0033&height=190&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=800&size=46&duration=1&pause=100000&color=00FF41&center=true&vCenter=true&width=650&height=65&lines=KRISHNA+JAISWAL" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=800&size=46&duration=1&pause=100000&color=FF10F0&center=true&vCenter=true&width=650&height=65&lines=KRISHNA+JAISWAL" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=17&duration=1&pause=100000&color=39FF14&center=true&vCenter=true&width=650&lines=MCA+(AI%2FML)+Student+%7C+Cybersecurity+Enthusiast" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=17&duration=1&pause=100000&color=FF6EC7&center=true&vCenter=true&width=650&lines=MCA+(AI%2FML)+Student+%7C+Cybersecurity+Enthusiast" alt="Tagline" />
 
 <br/>
 
@@ -12,17 +12,21 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/-Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/-Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/-Networking-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-Python-1a0033?style=for-the-badge&logo=python&logoColor=FF10F0"/>
+<img src="https://img.shields.io/badge/-Machine%20Learning-1a0033?style=for-the-badge&logo=tensorflow&logoColor=FF10F0"/>
+<img src="https://img.shields.io/badge/-Linux-1a0033?style=for-the-badge&logo=linux&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-Cybersecurity-1a0033?style=for-the-badge&logo=hackthebox&logoColor=FF10F0"/>
+<img src="https://img.shields.io/badge/-Networking-1a0033?style=for-the-badge&logo=wireshark&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-Git-1a0033?style=for-the-badge&logo=git&logoColor=FF6EC7"/>
+<img src="https://img.shields.io/badge/-GitHub-1a0033?style=for-the-badge&logo=github&logoColor=FF6EC7"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=binarykrishna&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=binarykrishna&color=FF10F0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?color=00FF41&label=Status&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbinarykrishna&style=for-the-badge&logo=statuspage" alt="Status"/>
 
 </div>
 
@@ -59,10 +63,10 @@ Status:      [ONLINE] Always debugging, always learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=binarykrishna&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=39FF14" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=binarykrishna&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=39FF14&currStreakLabel=00FF41" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=binarykrishna&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1a0033&title_color=FF10F0&icon_color=FF6EC7&text_color=c0caf5" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=binarykrishna&theme=radical&hide_border=true&background=1a0033&ring=FF10F0&fire=FF6EC7&currStreakLabel=FF10F0" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binarykrishna&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binarykrishna&layout=compact&theme=radical&hide_border=true&bg_color=1a0033&title_color=FF10F0" width="50%" />
 
 </div>
 
@@ -71,7 +75,7 @@ Status:      [ONLINE] Always debugging, always learning
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=binarykrishna&theme=matrix&no-frame=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=binarykrishna&theme=radical&no-frame=true&margin-w=10&row=1" />
 </div>
 
 ---
@@ -79,7 +83,7 @@ Status:      [ONLINE] Always debugging, always learning
 ### 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=binarykrishna&theme=react-dark&hide_border=true&bg_color=000000&color=00FF41&line=39FF14&point=FFFFFF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binarykrishna&theme=redical&hide_border=true&bg_color=1a0033&color=FF10F0&line=FF6EC7&point=FFFFFF" width="95%"/>
 </div>
 
 ---
@@ -94,10 +98,17 @@ Status:      [ONLINE] Always debugging, always learning
 
 ---
 
+### 🔗 Connect
+
+<div align="center">
+<img src="https://img.shields.io/badge/Email-1a0033?style=for-the-badge&logo=gmail&logoColor=FF10F0"/>
+<a href="https://github.com/binarykrishna/inkwell"><img src="https://img.shields.io/badge/Inkwell%20Project-1a0033?style=for-the-badge&logo=github&logoColor=00FF41"/></a>
+</div>
+
 <div align="center">
 
-📫 **Reach me:** krishnaajaiswal22@gmail.com
+📫 krishnaajaiswal22@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:001a00,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,25:990066,50:660033,75:330033,100:1a0033&height=130&section=footer" width="100%"/>
 
 </div>
