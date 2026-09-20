@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&italic=1&weight=500&size=16&duration=4500&pause=1800&color=00FF41&center=true&vCenter=true&width=900&height=50&lines=Talk%20is%20cheap.%20Show%20me%20the%20code.%20-%20Linus%20Torvalds;Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.%20-%20Kent%20Beck;Any%20fool%20can%20write%20code%20a%20computer%20understands.%20Good%20programmers%20write%20code%20humans%20understand.%20-%20Martin%20Fowler;Debugging%20is%20twice%20as%20hard%20as%20writing%20the%20code%20in%20the%20first%20place.%20-%20Brian%20Kernighan;Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.%20-%20Harold%20Abelson;Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%20is%20bad.%20-%20Cory%20House;Simplicity%20and%20elegance%20are%20unpopular%20because%20they%20require%20hard%20work%20and%20discipline.%20-%20Edsger%20Dijkstra;Measuring%20programming%20progress%20by%20lines%20of%20code%20is%20like%20measuring%20aircraft%20building%20by%20weight.%20-%20Bill%20Gates;First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%20-%20John%20Johnson;Given%20enough%20eyeballs%2C%20all%20bugs%20are%20shallow.%20-%20Eric%20S.%20Raymond;Perfection%20is%20achieved%20when%20there%20is%20nothing%20left%20to%20take%20away.%20-%20Antoine%20de%20Saint-Exupery;The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.%20-%20Alan%20Kay" alt="Quotes" />
 </div>
 
 ---
