@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:565f89&height=200&section=header&text=Krishna%20Jaiswal&fontSize=50&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=MCA%20(AI%2FML)%20Student%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Krishna%20Jaiswal&fontSize=55&fontColor=7AA2F7&animation=twinkling&fontAlignY=35&desc=MCA%20(AI%2FML)%20Student%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=17&descColor=c0caf5" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+AI%2FML;Learning+Python+%2B+Machine+Learning;Exploring+Cybersecurity;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&color=BB9AF7&center=true&vCenter=true&width=650&lines=%3E+whoami;Krishna+Jaiswal+%E2%80%94+MCA+(AI%2FML);Learning+Python+%2B+Machine+Learning;Exploring+the+world+of+Cybersecurity;print(%22Always+learning...%22)" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Python-1a1b27?style=for-the-badge&logo=python&logoColor=7AA2F7"/>
-<img src="https://img.shields.io/badge/-Machine%20Learning-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=e0af68"/>
-<img src="https://img.shields.io/badge/-Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=9ece6a"/>
-<img src="https://img.shields.io/badge/-Cybersecurity-1a1b27?style=for-the-badge&logo=hackthebox&logoColor=f7768e"/>
-<img src="https://img.shields.io/badge/-Networking-1a1b27?style=for-the-badge&logo=wireshark&logoColor=bb9af7"/>
-<img src="https://img.shields.io/badge/-Git-1a1b27?style=for-the-badge&logo=git&logoColor=c0caf5"/>
-<img src="https://img.shields.io/badge/-GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5"/>
+<img src="https://img.shields.io/badge/-Python-0f0c29?style=for-the-badge&logo=python&logoColor=7AA2F7"/>
+<img src="https://img.shields.io/badge/-Machine%20Learning-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=e0af68"/>
+<img src="https://img.shields.io/badge/-Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=9ece6a"/>
+<img src="https://img.shields.io/badge/-Cybersecurity-0f0c29?style=for-the-badge&logo=hackthebox&logoColor=f7768e"/>
+<img src="https://img.shields.io/badge/-Networking-0f0c29?style=for-the-badge&logo=wireshark&logoColor=bb9af7"/>
+<img src="https://img.shields.io/badge/-Git-0f0c29?style=for-the-badge&logo=git&logoColor=c0caf5"/>
+<img src="https://img.shields.io/badge/-GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=c0caf5"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=binarykrishna&color=bb9af7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -20,19 +24,24 @@
 
 ### 🚀 About Me
 
-- 🎓 MCA student specializing in **AI/ML**
-- 💻 Intermediate in Python, learning as I build
-- 🤖 Exploring machine learning fundamentals and applications
-- 🔐 Diving into cybersecurity — networks, systems, and how things break (so I can help fix them)
-- 🌱 Currently learning Git/GitHub workflows and security fundamentals
-- 📌 Check my pinned repos below for what I'm actively working on
+```python
+class Krishna:
+    def __init__(self):
+        self.role = "MCA (AI/ML) Student"
+        self.language = "Python (Intermediate)"
+        self.interests = ["Machine Learning", "Cybersecurity", "Networking"]
+        self.currently_learning = "Git, GitHub & Security Fundamentals"
+        self.fun_fact = "Always debugging, always learning 🐍"
+
+me = Krishna()
+```
 
 ---
 
 ### 🛠️ Tech & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,linux,git,github,vscode,bash&theme=dark" />
 </div>
 
 ---
@@ -41,11 +50,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=binarykrishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=binarykrishna&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=binarykrishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f0c29&title_color=bb9af7&icon_color=7AA2F7" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=binarykrishna&theme=tokyonight&hide_border=true&background=0f0c29&ring=bb9af7&fire=f7768e" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binarykrishna&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binarykrishna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=bb9af7" width="50%" />
 
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=binarykrishna&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binarykrishna&theme=tokyo-night&hide_border=true&bg_color=0f0c29" width="95%"/>
 </div>
 
 ---
@@ -64,8 +89,6 @@
 
 📫 **Reach me:** krishnaajaiswal22@gmail.com
 
-<img src="https://komarev.com/ghpvc/?username=binarykrishna&color=7AA2F7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:565f89,100:1a1b27&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
