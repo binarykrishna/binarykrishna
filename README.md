@@ -113,18 +113,10 @@ Others (Git, GitHub, TensorFlow)    ██████████░░░░�
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=binarykrishna&theme=radical&no-frame=true&margin-w=10&row=1" />
-</div>
-
----
-
 ### 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=binarykrishna&theme=redical&hide_border=true&bg_color=1a0033&color=FF10F0&line=FF6EC7&point=FFFFFF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binarykrishna&theme=radical&hide_border=true&bg_color=1a0033&color=FF10F0&line=FF6EC7&point=FFFFFF" width="95%"/>
 </div>
 
 ---
