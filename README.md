@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?weight=800&size=46&duration=1&pause=100000&color=000000&center=true&vCenter=true&width=650&height=65&lines=%F0%9D%95%B6%F0%9D%96%97%F0%9D%96%8E%F0%9D%96%98%F0%9D%96%8D%F0%9D%96%93%F0%9D%96%86%20%F0%9D%95%B5%F0%9D%96%86%F0%9D%96%8E%F0%9D%96%98%F0%9D%96%9C%F0%9D%96%86%F0%9D%96%91" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=17&duration=1&pause=100000&color=FF6EC7&center=true&vCenter=true&width=650&lines=MCA+(AI%2FML)+Student+%7C+Cybersecurity+Enthusiast" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?weight=500&size=17&duration=1&pause=100000&color=FF6EC7&center=true&vCenter=true&width=650&lines=%F0%9D%99%88%F0%9D%98%BE%F0%9D%98%BC%20%28%F0%9D%98%BC%F0%9D%99%84/%F0%9D%99%88%F0%9D%99%87%29%20%F0%9D%99%8E%F0%9D%99%A9%F0%9D%99%AA%F0%9D%99%99%F0%9D%99%9A%F0%9D%99%A3%F0%9D%99%A9%20%7C%20%F0%9D%98%BE%F0%9D%99%AE%F0%9D%99%97%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A8%F0%9D%99%9A%F0%9D%99%98%F0%9D%99%AA%F0%9D%99%A7%F0%9D%99%9E%F0%9D%99%A9%F0%9D%99%AE%20%F0%9D%99%80%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9D%F0%9D%99%AA%F0%9D%99%A8%F0%9D%99%9E%F0%9D%99%96%F0%9D%99%A8%F0%9D%99%A9" alt="Tagline" />
 
 <br/>
 
