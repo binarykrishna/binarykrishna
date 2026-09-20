@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Krishna%20Jaiswal&fontSize=55&fontColor=7AA2F7&animation=twinkling&fontAlignY=35&desc=MCA%20(AI%2FML)%20Student%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=17&descColor=c0caf5" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&color=BB9AF7&center=true&vCenter=true&width=650&lines=%3E+whoami;Krishna+Jaiswal+%E2%80%94+MCA+(AI%2FML);Learning+Python+%2B+Machine+Learning;Exploring+the+world+of+Cybersecurity;print(%22Always+learning...%22)" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=45&duration=1&pause=100000&color=BB9AF7&center=true&vCenter=true&width=600&height=60&lines=KRISHNA+JAISWAL" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1&pause=100000&color=7AA2F7&center=true&vCenter=true&width=600&lines=MCA+(AI%2FML)+Student+%7C+Cybersecurity+Enthusiast" alt="Tagline" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=9ECE6A&center=true&vCenter=true&width=650&lines=%3E+whoami;Krishna+Jaiswal+%E2%80%94+MCA+(AI%2FML);Learning+Python+%2B+Machine+Learning;Exploring+the+world+of+Cybersecurity;print(%22Always+learning...%22)" alt="Typing SVG" />
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/-Python-0f0c29?style=for-the-badge&logo=python&logoColor=7AA2F7"/>
 <img src="https://img.shields.io/badge/-Machine%20Learning-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=e0af68"/>
@@ -18,6 +26,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=binarykrishna&color=bb9af7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
+</div>
+
+---
+
+### 💬 Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
@@ -92,3 +108,4 @@ me = Krishna()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
+
