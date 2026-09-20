@@ -24,10 +24,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=binarykrishna&color=FF10F0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?color=00FF41&label=Status&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbinarykrishna&style=for-the-badge&logo=statuspage" alt="Status"/>
-
 </div>
 
 ---
@@ -40,13 +36,17 @@
 
 ### 📟 whoami
 
-```yaml
-Name:        Krishna Jaiswal
-Role:        MCA (AI/ML) Student
-Language:    Python (Intermediate)
-Focus:       Machine Learning | Cybersecurity | Networking
-Learning:    Git, GitHub, Security Fundamentals
-Status:      [ONLINE] Always debugging, always learning
+```bash
+┌──────────────────────────────────────────────┐
+│  guest@krishna-jaiswal:~$ whoami               │
+├──────────────────────────────────────────────┤
+│  Name        : Krishna Jaiswal                 │
+│  Role        : MCA (AI/ML) Student             │
+│  Language    : Python (Intermediate)           │
+│  Focus       : ML | Cybersecurity | Networking │
+│  Learning    : Git, GitHub, Security Basics    │
+│  Status      : [ONLINE] Always debugging...    │
+└──────────────────────────────────────────────┘
 ```
 
 ---
