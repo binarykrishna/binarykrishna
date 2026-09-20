@@ -100,6 +100,17 @@ Others (Git, GitHub, TensorFlow)    ██████████░░░░�
 
 ---
 
+### 🚀 Projects
+<!-- Auto-updated by .github/workflows/update-projects.yml — do not edit by hand between the markers -->
+<!--REPOS:START-->
+<div align="center">
+<a href="https://github.com/binarykrishna/inkwell"><img src="https://img.shields.io/badge/Inkwell-1a0033?style=for-the-badge&logo=flask&logoColor=00FF41"/></a>
+<a href="https://github.com/binarykrishna/log_anomaly_detector"><img src="https://img.shields.io/badge/Log%20Anomaly%20Detector-1a0033?style=for-the-badge&logo=python&logoColor=FF10F0"/></a>
+</div>
+<!--REPOS:END-->
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -116,7 +127,7 @@ Others (Git, GitHub, TensorFlow)    ██████████░░░░�
 ### 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=binarykrishna&theme=radical&hide_border=true&bg_color=1a0033&color=FF10F0&line=FF6EC7&point=FFFFFF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binarykrishna&theme=react-dark&hide_border=true&bg_color=1a0033&color=FF10F0&line=FF6EC7&point=FFFFFF" width="95%"/>
 </div>
 
 ---
@@ -124,17 +135,19 @@ Others (Git, GitHub, TensorFlow)    ██████████░░░░�
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/binarykrishna/binarykrishna/output/github-contribution-grid-snake-dark.svg" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binarykrishna/binarykrishna/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binarykrishna/binarykrishna/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/binarykrishna/binarykrishna/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
 </div>
-
-> ⚠️ Needs the one-time GitHub Actions setup from earlier steps.
 
 ---
 
 ### 🔗 Connect
 
 <div align="center">
-<img src="https://img.shields.io/badge/Email-1a0033?style=for-the-badge&logo=gmail&logoColor=FF10F0"/>
+<a href="mailto:krishnaajaiswal22@gmail.com"><img src="https://img.shields.io/badge/Email-1a0033?style=for-the-badge&logo=gmail&logoColor=FF10F0"/></a>
 <a href="https://github.com/binarykrishna/inkwell"><img src="https://img.shields.io/badge/Inkwell%20Project-1a0033?style=for-the-badge&logo=github&logoColor=00FF41"/></a>
 </div>
 
