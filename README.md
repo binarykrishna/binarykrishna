@@ -148,7 +148,8 @@ Others (Git, GitHub, TensorFlow)    ██████████░░░░�
 
 <div align="center">
 <a href="mailto:krishnaajaiswal22@gmail.com"><img src="https://img.shields.io/badge/Email-1a0033?style=for-the-badge&logo=gmail&logoColor=FF10F0"/></a>
-<a href="https://github.com/binarykrishna/inkwell"><img src="https://img.shields.io/badge/Inkwell%20Project-1a0033?style=for-the-badge&logo=github&logoColor=00FF41"/></a>
+<a href="https://www.instagram.com/jaizkrishna?stkn=bjBpM2xkbGc2bzZ2"><img src="https://img.shields.io/badge/Instagram-1a0033?style=for-the-badge&logo=instagram&logoColor=FF10F0"/></a>
+<a href="https://www.linkedin.com/in/krishna-jaiswal-8800ba29b?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-1a0033?style=for-the-badge&logo=linkedin&logoColor=00FF41"/></a>
 </div>
 
 <div align="center">
