@@ -117,10 +117,10 @@ Others (Git, GitHub, TensorFlow)    ██████████░░░░�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=binarykrishna&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1a0033&title_color=FF10F0&icon_color=FF6EC7&text_color=c0caf5" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=binarykrishna&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1a0033&title_color=FF10F0&icon_color=FF6EC7&text_color=c0caf5&cache_seconds=86400" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarykrishna&theme=radical&hide_border=true&background=1a0033&ring=FF10F0&fire=FF6EC7&currStreakLabel=FF10F0" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binarykrishna&layout=compact&theme=radical&hide_border=true&bg_color=1a0033&title_color=FF10F0" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binarykrishna&layout=compact&theme=radical&hide_border=true&bg_color=1a0033&title_color=FF10F0&cache_seconds=86400" width="50%" />
 
 </div>
 
