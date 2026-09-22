@@ -155,6 +155,15 @@ Others (Git, GitHub, TensorFlow)    ██████████░░░░�
 </div>
 
 <div align="center">
+<br/>
+<a href="https://binarykrishna.github.io/photo-card/" target="_blank">
+  <img src="https://images.weserv.nl/?url=drive.google.com/uc?export=view%26id=1_vuKtRgxQ3k0SNZcHCYyIqVIK2dX8ZbG&filt=greyscale&w=300" width="200" alt="Krishna Jaiswal — hover on my site" />
+</a>
+<br/>
+<sub><a href="https://binarykrishna.github.io/photo-card/">→ hover me here</a></sub>
+</div>
+
+<div align="center">
 
 📫 krishnaajaiswal22@gmail.com
 
